@@ -1,0 +1,13 @@
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\bin\Debug\netcoreapp3.1\leitura-simples.exe
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\bin\Debug\netcoreapp3.1\leitura-simples.deps.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\bin\Debug\netcoreapp3.1\leitura-simples.runtimeconfig.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\bin\Debug\netcoreapp3.1\leitura-simples.runtimeconfig.dev.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\bin\Debug\netcoreapp3.1\leitura-simples.dll
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\bin\Debug\netcoreapp3.1\leitura-simples.pdb
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\obj\Debug\netcoreapp3.1\leitura-simples.csprojAssemblyReference.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\obj\Debug\netcoreapp3.1\leitura-simples.AssemblyInfoInputs.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\obj\Debug\netcoreapp3.1\leitura-simples.AssemblyInfo.cs
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\obj\Debug\netcoreapp3.1\leitura-simples.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\obj\Debug\netcoreapp3.1\leitura-simples.dll
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\obj\Debug\netcoreapp3.1\leitura-simples.pdb
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-simples\obj\Debug\netcoreapp3.1\leitura-simples.genruntimeconfig.cache

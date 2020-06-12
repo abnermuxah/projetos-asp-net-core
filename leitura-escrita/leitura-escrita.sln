@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leitura-simples", "leitura-simples\leitura-simples.csproj", "{0823AC0D-A8EF-4BDA-8066-C50C3322D888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leitura-calculo", "leitura-calculo\leitura-calculo.csproj", "{5A1AA0D0-93A4-42BA-885A-4A9BE8A263CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0823AC0D-A8EF-4BDA-8066-C50C3322D888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0823AC0D-A8EF-4BDA-8066-C50C3322D888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0823AC0D-A8EF-4BDA-8066-C50C3322D888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0823AC0D-A8EF-4BDA-8066-C50C3322D888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1AA0D0-93A4-42BA-885A-4A9BE8A263CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1AA0D0-93A4-42BA-885A-4A9BE8A263CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1AA0D0-93A4-42BA-885A-4A9BE8A263CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1AA0D0-93A4-42BA-885A-4A9BE8A263CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F7ACEDF-DF91-49F4-973D-84E2D5D93D97}
+	EndGlobalSection
+EndGlobal

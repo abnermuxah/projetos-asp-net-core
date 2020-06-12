@@ -1,0 +1,13 @@
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\bin\Debug\netcoreapp3.1\leitura-calculo.exe
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\bin\Debug\netcoreapp3.1\leitura-calculo.deps.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\bin\Debug\netcoreapp3.1\leitura-calculo.runtimeconfig.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\bin\Debug\netcoreapp3.1\leitura-calculo.runtimeconfig.dev.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\bin\Debug\netcoreapp3.1\leitura-calculo.dll
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\bin\Debug\netcoreapp3.1\leitura-calculo.pdb
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\obj\Debug\netcoreapp3.1\leitura-calculo.csprojAssemblyReference.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\obj\Debug\netcoreapp3.1\leitura-calculo.AssemblyInfoInputs.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\obj\Debug\netcoreapp3.1\leitura-calculo.AssemblyInfo.cs
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\obj\Debug\netcoreapp3.1\leitura-calculo.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\obj\Debug\netcoreapp3.1\leitura-calculo.dll
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\obj\Debug\netcoreapp3.1\leitura-calculo.pdb
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\leitura-calculo\obj\Debug\netcoreapp3.1\leitura-calculo.genruntimeconfig.cache
