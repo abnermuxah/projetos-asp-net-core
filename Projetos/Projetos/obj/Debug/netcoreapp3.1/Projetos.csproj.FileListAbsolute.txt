@@ -1,0 +1,12 @@
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\bin\Debug\netcoreapp3.1\Projetos.exe
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\bin\Debug\netcoreapp3.1\Projetos.deps.json
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\bin\Debug\netcoreapp3.1\Projetos.runtimeconfig.json
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\bin\Debug\netcoreapp3.1\Projetos.runtimeconfig.dev.json
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\bin\Debug\netcoreapp3.1\Projetos.dll
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\bin\Debug\netcoreapp3.1\Projetos.pdb
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\obj\Debug\netcoreapp3.1\Projetos.AssemblyInfoInputs.cache
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\obj\Debug\netcoreapp3.1\Projetos.AssemblyInfo.cs
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\obj\Debug\netcoreapp3.1\Projetos.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\obj\Debug\netcoreapp3.1\Projetos.dll
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\obj\Debug\netcoreapp3.1\Projetos.pdb
+C:\Users\student\Documents\GitHub\projetos-c-sharp\Projetos\Projetos\obj\Debug\netcoreapp3.1\Projetos.genruntimeconfig.cache
