@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XIie4EDXwXdRA8CnLFLSp2CREMxs++VpJg4uINFcN+G4+6GRjNub44c/bgPYxKrk4Zi2+hBJe94Xi5c0icqrxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\student\\Documents\\GitHub\\projetos-asp-net-core\\leitura-escrita\\geometria-retangulo\\geometria-retangulo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

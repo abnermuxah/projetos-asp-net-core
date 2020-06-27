@@ -1,0 +1,13 @@
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\bin\Debug\netcoreapp3.1\geometria-retangulo.exe
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\bin\Debug\netcoreapp3.1\geometria-retangulo.deps.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\bin\Debug\netcoreapp3.1\geometria-retangulo.runtimeconfig.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\bin\Debug\netcoreapp3.1\geometria-retangulo.runtimeconfig.dev.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\bin\Debug\netcoreapp3.1\geometria-retangulo.dll
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\bin\Debug\netcoreapp3.1\geometria-retangulo.pdb
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\obj\Debug\netcoreapp3.1\geometria-retangulo.csprojAssemblyReference.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\obj\Debug\netcoreapp3.1\geometria-retangulo.AssemblyInfoInputs.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\obj\Debug\netcoreapp3.1\geometria-retangulo.AssemblyInfo.cs
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\obj\Debug\netcoreapp3.1\geometria-retangulo.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\obj\Debug\netcoreapp3.1\geometria-retangulo.dll
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\obj\Debug\netcoreapp3.1\geometria-retangulo.pdb
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\geometria-retangulo\obj\Debug\netcoreapp3.1\geometria-retangulo.genruntimeconfig.cache

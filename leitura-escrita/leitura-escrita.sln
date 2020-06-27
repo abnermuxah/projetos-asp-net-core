@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leitura-simples", "leitura-simples\leitura-simples.csproj", "{0823AC0D-A8EF-4BDA-8066-C50C3322D888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leitura-simples", "leitura-simples\leitura-simples.csproj", "{0823AC0D-A8EF-4BDA-8066-C50C3322D888}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leitura-calculo", "leitura-calculo\leitura-calculo.csproj", "{5A1AA0D0-93A4-42BA-885A-4A9BE8A263CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leitura-calculo", "leitura-calculo\leitura-calculo.csproj", "{5A1AA0D0-93A4-42BA-885A-4A9BE8A263CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geometria-retangulo", "geometria-retangulo\geometria-retangulo.csproj", "{3E5C3C4B-036F-4485-B150-94790B2101E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5A1AA0D0-93A4-42BA-885A-4A9BE8A263CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A1AA0D0-93A4-42BA-885A-4A9BE8A263CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A1AA0D0-93A4-42BA-885A-4A9BE8A263CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5C3C4B-036F-4485-B150-94790B2101E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5C3C4B-036F-4485-B150-94790B2101E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5C3C4B-036F-4485-B150-94790B2101E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5C3C4B-036F-4485-B150-94790B2101E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
