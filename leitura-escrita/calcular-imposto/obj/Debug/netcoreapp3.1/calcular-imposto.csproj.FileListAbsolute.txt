@@ -1,0 +1,13 @@
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\bin\Debug\netcoreapp3.1\calcular-imposto.exe
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\bin\Debug\netcoreapp3.1\calcular-imposto.deps.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\bin\Debug\netcoreapp3.1\calcular-imposto.runtimeconfig.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\bin\Debug\netcoreapp3.1\calcular-imposto.runtimeconfig.dev.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\bin\Debug\netcoreapp3.1\calcular-imposto.dll
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\bin\Debug\netcoreapp3.1\calcular-imposto.pdb
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\obj\Debug\netcoreapp3.1\calcular-imposto.csprojAssemblyReference.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\obj\Debug\netcoreapp3.1\calcular-imposto.AssemblyInfoInputs.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\obj\Debug\netcoreapp3.1\calcular-imposto.AssemblyInfo.cs
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\obj\Debug\netcoreapp3.1\calcular-imposto.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\obj\Debug\netcoreapp3.1\calcular-imposto.dll
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\obj\Debug\netcoreapp3.1\calcular-imposto.pdb
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-imposto\obj\Debug\netcoreapp3.1\calcular-imposto.genruntimeconfig.cache
