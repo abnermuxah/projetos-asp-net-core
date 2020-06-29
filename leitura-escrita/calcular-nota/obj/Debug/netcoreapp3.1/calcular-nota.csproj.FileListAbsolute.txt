@@ -1,0 +1,13 @@
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\bin\Debug\netcoreapp3.1\calcular-nota.exe
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\bin\Debug\netcoreapp3.1\calcular-nota.deps.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\bin\Debug\netcoreapp3.1\calcular-nota.runtimeconfig.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\bin\Debug\netcoreapp3.1\calcular-nota.runtimeconfig.dev.json
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\bin\Debug\netcoreapp3.1\calcular-nota.dll
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\bin\Debug\netcoreapp3.1\calcular-nota.pdb
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\obj\Debug\netcoreapp3.1\calcular-nota.csprojAssemblyReference.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\obj\Debug\netcoreapp3.1\calcular-nota.AssemblyInfoInputs.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\obj\Debug\netcoreapp3.1\calcular-nota.AssemblyInfo.cs
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\obj\Debug\netcoreapp3.1\calcular-nota.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\obj\Debug\netcoreapp3.1\calcular-nota.dll
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\obj\Debug\netcoreapp3.1\calcular-nota.pdb
+C:\Users\student\Documents\GitHub\projetos-asp-net-core\leitura-escrita\calcular-nota\obj\Debug\netcoreapp3.1\calcular-nota.genruntimeconfig.cache
