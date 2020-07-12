@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lVJI25UmEPD4nQqQXW4NoR6p4dlZRkeIrBIJEF0swSk4BlV/4BjA5urD0XZtt5UW3d+z3fnh7wctxne0ESwPHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\student\\Documents\\GitHub\\projetos-asp-net-core\\leitura-escrita\\construtores-sobrecarga\\construtores-sobrecarga.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

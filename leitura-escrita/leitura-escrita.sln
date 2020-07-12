@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leitura-simples", "leitura-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leitura-calculo", "leitura-calculo\leitura-calculo.csproj", "{5A1AA0D0-93A4-42BA-885A-4A9BE8A263CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geometria-retangulo", "geometria-retangulo\geometria-retangulo.csproj", "{3E5C3C4B-036F-4485-B150-94790B2101E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "geometria-retangulo", "geometria-retangulo\geometria-retangulo.csproj", "{3E5C3C4B-036F-4485-B150-94790B2101E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcular-imposto", "calcular-imposto\calcular-imposto.csproj", "{CE9EDD77-92C3-41B8-BAB3-32C9C95033E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calcular-imposto", "calcular-imposto\calcular-imposto.csproj", "{CE9EDD77-92C3-41B8-BAB3-32C9C95033E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcular-nota", "calcular-nota\calcular-nota.csproj", "{08D05E38-7099-46EA-A8F7-80AFA76573B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calcular-nota", "calcular-nota\calcular-nota.csproj", "{08D05E38-7099-46EA-A8F7-80AFA76573B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "construtores-sobrecarga", "construtores-sobrecarga\construtores-sobrecarga.csproj", "{20BC66D6-AA6B-4B05-BD51-86D5BC7E59E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{08D05E38-7099-46EA-A8F7-80AFA76573B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08D05E38-7099-46EA-A8F7-80AFA76573B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08D05E38-7099-46EA-A8F7-80AFA76573B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20BC66D6-AA6B-4B05-BD51-86D5BC7E59E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BC66D6-AA6B-4B05-BD51-86D5BC7E59E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BC66D6-AA6B-4B05-BD51-86D5BC7E59E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BC66D6-AA6B-4B05-BD51-86D5BC7E59E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

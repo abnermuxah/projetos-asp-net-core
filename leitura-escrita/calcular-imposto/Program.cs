@@ -7,7 +7,6 @@ namespace calcular_imposto
         static void Main(string[] args)
         {
             Funcionario func = new Funcionario();
-            
             Console.WriteLine("Digite o nome do funcionario: ");
             func.Nome = Console.ReadLine();
             Console.WriteLine("Digite o salario bruto do funcionario: ");
